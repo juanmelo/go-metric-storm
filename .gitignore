@@ -1,0 +1,9 @@
+# Binaries for programs and plugins
+*.exe
+
+### Go Patch ###
+/vendor/
+
+# Intellij Idea
+.idea/**
+*.iml
